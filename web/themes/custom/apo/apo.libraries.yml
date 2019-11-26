@@ -1,0 +1,10 @@
+style:
+  version: VERSION
+  css:
+    theme:
+      assets/css/apo.style.css: {}
+  js:
+    assets/js/apo.script.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

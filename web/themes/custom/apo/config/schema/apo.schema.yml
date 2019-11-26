@@ -1,0 +1,5 @@
+# Schema for the configuration files of the apo theme.
+
+apo.settings:
+  type: theme_settings
+  label: 'apo settings'
